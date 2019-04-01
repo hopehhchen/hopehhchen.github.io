@@ -8,11 +8,14 @@ An astronomer.  I currently work as a postdoctoral research fellow in Prof. Stel
 
 ### Education
 
-   > **Ph. D. in Astronomy & Astrophysics**  &nbsp;  May 2018  &nbsp;  Harvard University
+* **Ph. D. in Astronomy & Astrophysics**  
+  May 2018  &nbsp;  Harvard University
    
-   > **Master of Arts in Astrophysics**  &nbsp;  May 2013  &nbsp;  Harvard University
+* **Master of Arts in Astrophysics**  
+  May 2013  &nbsp;  Harvard University
    
-   > **Bachelor of Science in Physics**  &nbsp;  May 2010  &nbsp;  National Tsing Hua University, Taiwan
+* **Bachelor of Science in Physics**  
+  May 2010  &nbsp;  National Tsing Hua University, Taiwan
 
 ### Contact me
 
