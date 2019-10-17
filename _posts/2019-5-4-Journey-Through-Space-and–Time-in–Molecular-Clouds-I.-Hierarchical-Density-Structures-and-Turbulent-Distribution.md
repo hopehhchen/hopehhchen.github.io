@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journey Through Space and Time in Molecular Clouds I: Hierarchical Density Structures and Turbulent Distribution
+title: Journey Through Space and Time in Molecular Clouds I. Hierarchical Density Structures and Turbulent Distribution
 ---
 
 (Peer-reviewed article published on *Astrophysical Journal*, which can be found at [this link]([https://iopscience.iop.org/article/10.3847/1538-4357/aabaf6).)
