@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Physicist and astronomer by training, experienced in spatial and temporal pattern recognition in high-dimensional datasets and numerical simulations.  Data scientist, fluent in statistical analysis, machine learning and data visualization.  I currently work as a postdoctoral research fellow in Prof. Stella Offner's group in the Department of Astronomy at the University of Texas at Austin.
+Physicist and astronomer by training, experienced in spatial and temporal pattern recognition in high-dimensional datasets and numerical simulations.  Data scientist, fluent in statistical analysis, machine learning and data visualization.  I currently work as a postdoctoral research fellow in Prof. Stella Offner's group in the Department of Astronomy at the University of Texas at Austin.  I'm also interested in chess, cinema, languages and Japanese subcultures.
 
 ### Education
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Museum of Trees
+title: Museum of Trees. An Interactive Visualization of Arnold Arboretum
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/screenshot_arboretum.png)
