@@ -19,7 +19,7 @@ Physicist and astronomer by training, experienced in spatial and temporal patter
 
 ### Publications
 
-First author of four articles published on *Astrophysical Journal*.  Contributing author to 13 articles in *Astrophysical Journal* and *Monthly Review of the Royal Astronomical Society*.  **See [my ORCID record]([https://orcid.org/0000-0001-6222-1712).**
+First author of four articles published on *Astrophysical Journal*.  Contributing author to 13 articles in *Astrophysical Journal* and *Monthly Review of the Royal Astronomical Society*.  **See [my ORCID record](https://orcid.org/0000-0001-6222-1712).**
 
 ### Contact me
 

@@ -6,7 +6,7 @@ title: Journey Through Space and Time in Molecular Clouds I. Hierarchical Densit
 ![_config.yml]({{ site.baseurl }}/images/dendrogram.jpeg)
 *The dendrogram algorithm, using the `astrodendro` package as an example.  The two parameters that define the merging criterion are `min_npix`, pointing to the minimum size of a structure to be considered in the dendrogram, and `min_delta`, pointing to the minimum difference in the value--here the density/column density--for a structure to considered independent from the underlying density distribution.  A third parameter, `min_value`, defines the minimum value in the distribution above which the algorithm will apply itself.*
 
-(Peer-reviewed article published on *Astrophysical Journal*, which can be found at [this link]([https://iopscience.iop.org/article/10.3847/1538-4357/aabaf6).)
+(Peer-reviewed article published on *Astrophysical Journal*, which can be found at [this link](https://iopscience.iop.org/article/10.3847/1538-4357/aabaf6).)
 
 The density of our Universe ranges from < 0.01 particles per cubic centimeter in the diffuse interstellar medium to 10$^{23}$ particles within a star.  Most of the physical processes leading to the formation of stars occurs in the density range above 100 particles per cubic centimeter, when the interstellar medium becomes dominated by molecules instead of atoms.  To study star formation, astronomers have developed techniques to trace the cold molecules (from 10 K to no more than 100 K) in the *molecular cloud*, or what is often known as the "cradle of stars."
 
@@ -29,7 +29,7 @@ By combining the dendrogram with the PDF of the density, which is often used as 
 ![_config.yml]({{ site.baseurl }}/images/PDF_superposition.jpeg)
 *Density PDF of the entire region, explained by different components used in conventional analyses to link the PDF to different physical processes.  Our analysis shows that the PDF in fact consists of subregions with different properties.  For example, the power-law "tail," which is usually linked to gravitational infall, is the result of a superposition of regions dominated by either gravity or turbulence.*
 
-To make future study using a similar method easier, I built a tree diagram plugin for the GUI-based interactive data exploration and visualization software, [*Glue*]([http://glueviz.org/).  The plugin has been published with the release of v0.15.1 of *Glue* and allows visualization and exploration of dendrograms and other network diagrams.  *The plugin has also been tested with network diagrams constructed from medical imaging data and has the potential to help research in disciplines outside astronomy.*
+To make future study using a similar method easier, I built a tree diagram plugin for the GUI-based interactive data exploration and visualization software, [*Glue*](http://glueviz.org/).  The plugin has been published with the release of v0.15.1 of *Glue* and allows visualization and exploration of dendrograms and other network diagrams.  *The plugin has also been tested with network diagrams constructed from medical imaging data and has the potential to help research in disciplines outside astronomy.*
 
 
 *The journey through space and time in molecular clouds continues with our discovery of strange structures with minimal amount of turbulent motions that no previous theoretical works expected.*
